@@ -20,11 +20,13 @@ select HW2.ipynb
 
 ## What Can you see In this project?
 
+### accuracy score of predict 
+### data analysis
+
 ### Decision tree
 [tree.pdf](https://github.com/ooxx5626/DataMining_Decision-Tree/blob/master/output/tree.pdf)
+![](https://i.imgur.com/6RAuMoU.jpg)
 
 ### feature_importances
 
 ![feature_importances.png](https://github.com/ooxx5626/DataMining_Decision-Tree/blob/master/output/fig-forest-feature-importances.png)
-### accuracy score of predict 
-### data analysis
